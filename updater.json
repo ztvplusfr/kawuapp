@@ -1,0 +1,15 @@
+{
+  "version": "0.3.3",
+  "notes": "Ajout de la section À propos, affichage de la version/OS, bouton de recherche de mise à jour et redémarrage automatique après installation",
+  "pub_date": "2026-07-11T07:39:39.802Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYzZrRXVrYWF3dGVwTWh3NXk4Qk9QTkcxaWVpK1dsTGdZdldUaWNKY0kvS1hSZzFqUXdpWkZ1THJXQk5VblIxUkphQjc1Sit6QXhRbE9Ha3pnNHhyQm9xZ21PZ25JcHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNzU1NTU3CWZpbGU6S2F3dV8wLjMuM194NjQtc2V0dXAuZXhlCjE1MDhUZUZGY0Vma1gzR1E5U2I4alRIZWpTMnF5QkU3V3ZnM0R1VEI4WW85RWpFaVpjUjl3ME92TWJ4UGlQd3FLZkYzQWtSQ3dYUVRJVU1RZlkyNEJRPT0K",
+      "url": "https://github.com/ztvplusfr/kawuapp/releases/download/v0.3.3/Kawu-0.3.3-Windows-Setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYzZrRXVrYWF3dFl3SUY2Rmh3SlpMd3BINUNJL2RoZFlUWlRtUlloSTBGRVhKd3hhVFdDVGJySlk2NHNVRGx5VGpHQ3dDSmp0bXg0VXNIOXpWcWMvbXFCUVFFQjdlaFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNzU1NDcwCWZpbGU6S2F3dS5hcHAudGFyLmd6Cm9yUGpvTlQ2dS94WUZjTmpwenQ1T24raVdNQUxlL1phRlkrTHRhbVdsSXFuTlpGL2gyakNMcHJBVVovM05lWW5YSlhoaDFkM2ZRTVpuVkpnSDdwY0N3PT0K",
+      "url": "https://github.com/ztvplusfr/kawuapp/releases/download/v0.3.3/Kawu-0.3.3-macOS-aarch64.app.tar.gz"
+    }
+  }
+}
