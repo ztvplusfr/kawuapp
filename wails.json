@@ -1,0 +1,17 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "kawu",
+  "outputfilename": "kawu",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "frontend:dev:watcher": "npm run dev",
+  "frontend:dev:serverUrl": "auto",
+  "preBuildHooks": {
+    "darwin/*": "xattr -cr ."
+  },
+
+  "author": {
+    "name": "hiro",
+    "email": "lactu_press@outlook.fr"
+  }
+}
