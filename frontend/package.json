@@ -1,0 +1,34 @@
+{
+  "name": "frontend",
+  "private": true,
+  "version": "1.0.2",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "version:sync": "node ../scripts/sync-version.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.112.3",
+    "@tabler/icons-vue": "^3.46.0",
+    "@types/qrcode": "^1.5.6",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "embla-carousel-autoplay": "^8.6.0",
+    "embla-carousel-vue": "^8.6.0",
+    "hls.js": "^1.7.1",
+    "lucide-vue-next": "^1.0.0",
+    "qrcode": "^1.5.4",
+    "radix-vue": "^1.9.17",
+    "tailwind-merge": "^3.6.0",
+    "vue": "^3.5.0",
+    "vue-router": "^4.6.4"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "@vitejs/plugin-vue": "^6.0.0",
+    "tailwindcss": "^4.3.3",
+    "vite": "^7.0.0"
+  }
+}

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LPic</key>
+	<array>
+		<dict>
+			<key>Attributes</key>
+			<string>0x0000</string>
+			<key>Data</key>
+			<data>
+			AAAAAgAAAAAAAAAAAAQAAA==
+			</data>
+			<key>ID</key>
+			<string>5000</string>
+			<key>Name</key>
+			<string></string>
+		</dict>
+	</array>
+	<key>STR#</key>
+	<array>
+		<dict>
+			<key>Attributes</key>
+			<string>0x0000</string>
+			<key>Data</key>
+			<data>
+			AAYNRW5nbGlzaCB0ZXN0MQVBZ3JlZQhEaXNhZ3JlZQVQcmludAdT
+			YXZlLi4ueklmIHlvdSBhZ3JlZSB3aXRoIHRoZSB0ZXJtcyBvZiB0
+			aGlzIGxpY2Vuc2UsIGNsaWNrICJBZ3JlZSIgdG8gYWNjZXNzIHRo
+			ZSBzb2Z0d2FyZS4gSWYgeW91IGRvIG5vdCBhZ3JlZSwgY2xpY2sg
+			IkRpc2FncmVlIi4=
+			</data>
+			<key>ID</key>
+			<string>5000</string>
+			<key>Name</key>
+			<string>English buttons</string>
+		</dict>
+	</array>
+	<key>TEXT</key>
+	<array>
+		<dict>
+			<key>Attributes</key>
+			<string>0x0000</string>
+			<key>Data</key>
+			<data>
+SU5TVEFMTEFUSU9OIERFIEtBV1UgU1VSIG1hY09TCgpCaWVudmVudWUgc3VyIEthd3UgIQoKU3VpdmV6IGNlcyBpbnN0cnVjdGlvbnMgcG91ciBpbnN0YWxsZXIgZXQgb3V2cmlyIGwnYXBwbGljYXRpb24gc2FucyBibG9jYWdlIDoKCjEuIElOU1RBTExBVElPTiA6CkdsaXNzZXogZXQgZGVwb3NleiBsJ2ljb25lIEthd3UgZGFucyBsZSBkb3NzaWVyIEFwcGxpY2F0aW9ucy4KCjIuIFNJIG1hY09TIEJMT1FVRSBMJ0FQUExJQ0FUSU9OIEFVIFBSRU1JRVIgTEFOQ0VNRU5UIDoKbWFjT1MgcGV1dCBhZmZpY2hlciA6ICJJbXBvc3NpYmxlIGQnb3V2cmlyIGwnYXBwbGljYXRpb24gY2FyIGxlIGRldmVsb3BwZXVyIG5lIHBldXQgcGFzIGV0cmUgdmVyaWZpZSIuCgpDJ2VzdCBub3JtYWwgcG91ciB1bmUgYXBwbGljYXRpb24gdGVsZWNoYXJnZWUgaG9ycyBkZSBsJ0FwcCBTdG9yZS4gUG91ciBsJ291dnJpciA6CgotIE1ldGhvZGUgMSAoVmlhIGxlcyBSZWdsYWdlcyBNYWMpIDoKICAxLiBPdXZyZXogIlJlZ2xhZ2VzIFN5c3RlbWUiID4gIkNvbmZpZGVudGlhbGl0ZSBldCBzZWN1cml0ZSIuCiAgMi4gRGVzY2VuZGV6IGEgbGEgc2VjdGlvbiAiU2VjdXJpdGUiLgogIDMuIENsaXF1ZXogc3VyICJPdXZyaXIgcXVhbmQgbWVtZSIgYSBjb3RlIGRlIEthd3UuCiAgNC4gRW50cmV6IHZvdHJlIG1vdCBkZSBwYXNzZSBvdSBUb3VjaCBJRCBwb3VyIHZhbGlkZXIuCgotIE1ldGhvZGUgMiAoQ2xpYyBkcm9pdCBkYW5zIEFwcGxpY2F0aW9ucykgOgogIDEuIE91dnJleiB2b3RyZSBkb3NzaWVyICJBcHBsaWNhdGlvbnMiLgogIDIuIEZhaXRlcyB1biBDTElDIERST0lUIChvdSBDdHJsICsgQ2xpYykgc3VyIEthd3UuCiAgMy4gQ2hvaXNpc3NleiAiT3V2cmlyIiBkYW5zIGxlIG1lbnUgY29udGV4dHVlbC4KICA0LiBDbGlxdWV6IHN1ciAiT3V2cmlyIiBzdXIgbGEgZmVuZXRyZSBkZSBjb25maXJtYXRpb24uCgooQ2V0dGUgZXRhcGUgbidlc3QgcmVxdWlzZSBxdSd1bmUgc2V1bGUgZm9pcyBhdSB0b3V0IHByZW1pZXIgbGFuY2VtZW50KS4KCkNsaXF1ZXogc3VyICJBY2NlcHRlciIgcG91ciBjb250aW51ZXIuCg==
+			</data>
+			<key>ID</key>
+			<string>5000</string>
+			<key>Name</key>
+			<string>English</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,23 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "kawu",
+  "outputfilename": "kawu",
+  "frontend:install": "bun install",
+  "frontend:build": "bun run build",
+  "frontend:dev:watcher": "bun run dev",
+  "frontend:dev:serverUrl": "auto",
+  "info": {
+    "companyName": "Kawu",
+    "productName": "Kawu",
+    "productVersion": "1.0.2",
+    "copyright": "Copyright (c) 2026 Kawu",
+    "comments": "Application de streaming Kawu"
+  },
+  "preBuildHooks": {
+    "darwin/*": "xattr -cr ."
+  },
+  "author": {
+    "name": "hiro",
+    "email": "lactu_press@outlook.fr"
+  }
+}

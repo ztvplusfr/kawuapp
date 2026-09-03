@@ -1,0 +1,71 @@
+@import "tailwindcss";
+
+@layer base {
+  html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #000000;
+    color: #ffffff;
+    font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    user-select: none;
+    -webkit-user-select: none;
+    overflow: hidden;
+  }
+
+  #app {
+    width: 100%;
+    height: 100%;
+  }
+
+  input, textarea, [contenteditable="true"] {
+    user-select: text !important;
+    -webkit-user-select: text !important;
+    -webkit-app-region: no-drag !important;
+    --wails-draggable: no-drag !important;
+  }
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+/* TV Remote Navigation Cyan Blue Accent (#22D3EE) */
+.kawu-tv-focus {
+  outline: 3.5px solid #22D3EE !important;
+  outline-offset: 3px !important;
+  box-shadow: 0 0 35px rgba(34, 211, 238, 0.95), 0 10px 30px rgba(0, 0, 0, 0.9) !important;
+  transform: scale(1.04) !important;
+  border-radius: 12px !important;
+  z-index: 99999 !important;
+  transition: transform 0.16s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.16s ease-out, outline-color 0.16s ease !important;
+}
+
+/* Grid Cards (e.g. Episode Grid): strictly maintain column width without expanding */
+.group\/ep.kawu-tv-focus,
+[class*="group/ep"].kawu-tv-focus {
+  transform: none !important;
+  outline: 3px solid #22D3EE !important;
+  outline-offset: 2px !important;
+  border-radius: 14px !important;
+  box-shadow: 0 0 25px rgba(34, 211, 238, 0.9), 0 8px 25px rgba(0, 0, 0, 0.9) !important;
+}
+
+.kawu-tv-pressed {
+  transform: scale(0.96) !important;
+  outline-color: #67E8F9 !important;
+  box-shadow: 0 0 50px rgba(103, 232, 249, 1) !important;
+}

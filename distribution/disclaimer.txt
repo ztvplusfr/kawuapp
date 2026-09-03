@@ -1,0 +1,29 @@
+INSTALLATION DE KAWU SUR macOS
+
+Bienvenue sur Kawu !
+
+Suivez ces instructions pour installer et ouvrir l'application sans blocage :
+
+1. INSTALLATION :
+Glissez et deposez l'icone Kawu dans le dossier Applications.
+
+2. SI macOS BLOQUE L'APPLICATION AU PREMIER LANCEMENT :
+macOS peut afficher : "Impossible d'ouvrir l'application car le developpeur ne peut pas etre verifie".
+
+C'est normal pour une application telechargee hors de l'App Store. Pour l'ouvrir :
+
+- Methode 1 (Via les Reglages Mac) :
+  1. Ouvrez "Reglages Systeme" > "Confidentialite et securite".
+  2. Descendez a la section "Securite".
+  3. Cliquez sur "Ouvrir quand meme" a cote de Kawu.
+  4. Entrez votre mot de passe ou Touch ID pour valider.
+
+- Methode 2 (Clic droit dans Applications) :
+  1. Ouvrez votre dossier "Applications".
+  2. Faites un CLIC DROIT (ou Ctrl + Clic) sur Kawu.
+  3. Choisissez "Ouvrir" dans le menu contextuel.
+  4. Cliquez sur "Ouvrir" sur la fenetre de confirmation.
+
+(Cette etape n'est requise qu'une seule fois au tout premier lancement).
+
+Cliquez sur "Accepter" pour continuer.
