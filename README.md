@@ -4,16 +4,16 @@
 
 # Kawu Desktop 🍿
 
-### Votre plateforme de streaming cinéma, séries et animés sur macOS.
+### Votre plateforme de streaming cinéma, séries et animés sur macOS & Windows.
 **Fluide · Design Noir Glass · Multi-sources · Sans aucune publicité**
 
 [![Version](https://img.shields.io/badge/version-1.0.2-06b6d4.svg?style=for-the-badge)](https://github.com/ztvplusfr/kawuapp/releases)
-[![Platform](https://img.shields.io/badge/platform-macOS-10b981.svg?style=for-the-badge)](#-téléchargement--installation)
+[![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows-10b981.svg?style=for-the-badge)](#-téléchargement--installation)
 [![Discord](https://img.shields.io/badge/Discord-Rejoindre%20la%20communauté-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GKH8APBxFN)
 
 <br/>
 
-### [🍏 Télécharger Kawu v1.0.2 (DMG)](https://github.com/ztvplusfr/kawuapp/releases/download/v1.0.2/Kawu-1.0.2.dmg)
+### [🍏 Télécharger pour macOS (DMG)](https://github.com/ztvplusfr/kawuapp/releases/download/v1.0.2/Kawu-1.0.2.dmg) &nbsp;&nbsp;|&nbsp;&nbsp; [🪟 Télécharger pour Windows (EXE)](https://github.com/ztvplusfr/kawuapp/releases/download/v1.0.2/kawu-amd64-installer.exe)
 
 </div>
 
@@ -21,14 +21,24 @@
 
 ## 🚀 Téléchargement & Installation
 
-1. **Téléchargez l'application** : Cliquez sur **[Kawu-1.0.2.dmg](https://github.com/ztvplusfr/kawuapp/releases/download/v1.0.2/Kawu-1.0.2.dmg)** *(5.7 Mo)*.
-2. **Ouvrez le fichier `.dmg`** téléchargé et glissez l'icône **Kawu** dans le dossier **Applications**.
+### 🍏 Sur macOS
+
+1. **Téléchargez le fichier** : **[Kawu-1.0.2.dmg](https://github.com/ztvplusfr/kawuapp/releases/download/v1.0.2/Kawu-1.0.2.dmg)** *(5.8 Mo)*.
+2. **Ouvrez le fichier `.dmg`** et glissez l'icône **Kawu** dans votre dossier **Applications**.
 3. **Lancez Kawu** depuis votre Launchpad ou Spotlight.
 
 > **💡 Au premier lancement (sécurité macOS standard) :**  
 > Si macOS affiche le message *« Impossible d'ouvrir car le développeur ne peut pas être vérifié »* :  
-> Faites un **Clic Droit** (ou *Ctrl + Clic*) sur **Kawu** dans votre dossier `/Applications` > Cliquez sur **Ouvrir**.  
+> Faites un **Clic Droit** (ou *Ctrl + Clic*) sur **Kawu** dans `/Applications` > Cliquez sur **Ouvrir**.  
 > *(Cette manipulation n'est nécessaire qu'une seule fois).*
+
+---
+
+### 🪟 Sur Windows
+
+1. **Téléchargez l'installeur** : **[kawu-amd64-installer.exe](https://github.com/ztvplusfr/kawuapp/releases/download/v1.0.2/kawu-amd64-installer.exe)** *(7.9 Mo)*.
+2. **Lancez le fichier d'installation** et suivez les étapes de l'assistant (raccourcis bureau et menu démarrer créés automatiquement).
+3. **Lancez Kawu** et profitez de vos films et séries !
 
 ---
 
@@ -36,11 +46,12 @@
 
 * 🎬 **Films, Séries & Animés** : Catalogue constamment mis à jour avec les dernières sorties.
 * 🇫🇷 **VF & VOSTFR** : Choix instantané de la langue et des sous-titres synchronisés.
-* 💎 **Interface Noir Glass** : Un design moderne, épuré et immersif pour écrans Retina.
+* 💎 **Interface Noir Glass** : Un design moderne, épuré et immersif pour écrans haute résolution.
 * 📱 **Télécommande Mobile** : Scannez le QR code dans l'application pour piloter la lecture depuis votre lit avec votre smartphone.
-* 🔄 **Reprise de lecture & Historique** : Votre progression est automatiquement sauvegardée pour reprendre exactement là où vous vous étiez arrêté.
+* 🔄 **Mise à jour automatique intégrée** : L'application détecte et installe automatiquement les nouvelles versions.
+* 💾 **Reprise de lecture & Historique** : Votre progression est automatiquement sauvegardée pour reprendre exactement là où vous vous étiez arrêté.
 * 📺 **Navigation style TV** : Naviguez facilement avec les flèches du clavier ou la télécommande.
-* ⚡ **Performance Native** : Application ultra-légère et fluide sans lenteur.
+* ⚡ **Performance Native** : Application ultra-légère et fluide.
 
 ---
 
