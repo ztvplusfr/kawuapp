@@ -7,13 +7,13 @@
 ### Votre plateforme de streaming cinéma, séries et animés sur macOS & Windows.
 **Fluide · Design Noir Glass · Multi-sources · Sans aucune publicité**
 
-[![Version](https://img.shields.io/badge/version-2.0.0-06b6d4.svg?style=for-the-badge)](https://github.com/ztvplusfr/kawuapp/releases)
+[![Version](https://img.shields.io/badge/version-2.0.1-06b6d4.svg?style=for-the-badge)](https://github.com/ztvplusfr/kawuapp/releases)
 [![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows-10b981.svg?style=for-the-badge)](#-téléchargement--installation)
 [![Discord](https://img.shields.io/badge/Discord-Rejoindre%20la%20communauté-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GKH8APBxFN)
 
 <br/>
 
-### [🍏 Télécharger pour macOS (DMG)](https://github.com/ztvplusfr/kawuapp/releases/download/v2.0.0/Kawu-2.0.0.dmg) &nbsp;&nbsp;|&nbsp;&nbsp; [🪟 Télécharger pour Windows (EXE)](https://github.com/ztvplusfr/kawuapp/releases/download/v2.0.0/kawu-amd64-installer.exe)
+### [🍏 Télécharger pour macOS (DMG)](https://github.com/ztvplusfr/kawuapp/releases/download/v2.0.1/Kawu-2.0.1.dmg) &nbsp;&nbsp;|&nbsp;&nbsp; [🪟 Télécharger pour Windows (EXE)](https://github.com/ztvplusfr/kawuapp/releases/download/v2.0.1/kawu-amd64-installer.exe)
 
 </div>
 
@@ -23,7 +23,7 @@
 
 ### 🍏 Sur macOS
 
-1. **Téléchargez le fichier** : **[Kawu-2.0.0.dmg](https://github.com/ztvplusfr/kawuapp/releases/download/v2.0.0/Kawu-2.0.0.dmg)** *(5.8 Mo)*.
+1. **Téléchargez le fichier** : **[Kawu-2.0.1.dmg](https://github.com/ztvplusfr/kawuapp/releases/download/v2.0.1/Kawu-2.0.1.dmg)** *(5.8 Mo)*.
 2. **Ouvrez le fichier `.dmg`** et glissez l'icône **Kawu** dans votre dossier **Applications**.
 3. **Lancez Kawu** depuis votre Launchpad ou Spotlight.
 
@@ -36,7 +36,7 @@
 
 ### 🪟 Sur Windows
 
-1. **Téléchargez l'installeur** : **[kawu-amd64-installer.exe](https://github.com/ztvplusfr/kawuapp/releases/download/v2.0.0/kawu-amd64-installer.exe)** *(7.9 Mo)*.
+1. **Téléchargez l'installeur** : **[kawu-amd64-installer.exe](https://github.com/ztvplusfr/kawuapp/releases/download/v2.0.1/kawu-amd64-installer.exe)** *(7.9 Mo)*.
 2. **Lancez le fichier d'installation** et suivez les étapes de l'assistant (raccourcis bureau et menu démarrer créés automatiquement).
 3. **Lancez Kawu** et profitez de vos films et séries !
 
